@@ -1,0 +1,1 @@
+This project focuses on analyzing the Amazon Best Seller Software dataset (available in CSV format on Kaggle) using Python and MySQL. The goal is to clean and transform the data, store it in a relational database, and extract valuable insights using analytical techniques.
